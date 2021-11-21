@@ -13,3 +13,4 @@ github_username:  skchie
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
